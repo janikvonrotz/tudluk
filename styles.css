@@ -1,0 +1,22 @@
+body {
+margin: 40px;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 320px 320px 320px 320px;
+    grid-gap: 10px;
+    background-color: #fff;
+    color: #444;
+}
+
+.box {
+    background-color: #444;
+    color: #fff;
+    padding: 20px;
+    font-size: 150%;
+}
+
+img {
+    max-width: 280px;
+}

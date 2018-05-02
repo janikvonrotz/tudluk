@@ -1,6 +1,7 @@
 ![](https://images.gr-assets.com/books/1408303130l/375802.jpg)  
-Title: Ender's Game (Ender's Saga #1)  
-Auhtor: Orson Scott Card  
+Title: Ender's Game  
+Series: Ender's Saga #1  
+Author: Orson Scott Card  
 Comment: I saw the movie, but still managed to be suprised by the twisted ending. Orson Scrott's debut was a milestone in the history of science fiction books.  
 Rating: 8/10  
 ISBN: 0812550706  
@@ -9,21 +10,23 @@ Finished: 01.05.2018
 ![](https://images.gr-assets.com/books/1433930311l/20873740.jpg)  
 Title: Sapiens: A Brief History of Humankind 
 Author: Yuval Noah Harari  
-ISBN: 0771038518 
+ISBN: 0771038518  
 Comment: Thought provoking, picturesque, outstanding and simply amazing. If you have not a clue about humanities history and how we built our society, this the book start with.  
 Rating: 10/10  
 Finished: 11.04.2018  
 
 ![](https://images.gr-assets.com/books/1403941730l/18077769.jpg)  
-Title: Authority (Southern Reach #2) 
+Title: Authority  
+Series: Southern Reach #2  
 Author: Jeff VanderMeer  
-ISBN: 0374104107    
+ISBN: 0374104107  
 Comment: Still challenging to read. Not as good as the first one. The plot is dragging and puzzling.  
 Rating: 6/10  
 Finished: 15.03.2018  
 
 ![](https://images.gr-assets.com/books/1403941587l/17934530.jpg)  
-Title: Annihilation (Southern Reach #1)  
+Title: Annihilation  
+Series: Southern Reach #1  
 Author: Jeff VanderMeer  
 ISBN: 0374104093  
 Comment: Challenging to read, puzzling to the end. Captivating and psychedelic.  
@@ -46,11 +49,12 @@ Comment:
 Rating: 7/10  
 Finished: 01.09.2017  
 
-![](https://images.gr-assets.com/books/1415428227l/20518872.jpg)  
-Title: Three Body Problem (Trilogy)  
+![](https://images.gr-assets.com/books/1430330507l/25451264.jpg)  
+Title: Death's End  
+Series: Remembrance of Earth's Past #3  
 Author: Liu Cixin  
-ISBN: 0765377063  
-Comment: My absolute favorite hard SF book. Embodies the greatest SF ideas in spectacular story.  
+ISBN: 0765377101  
+Comment:  
 Rating: 10/10  
 Finished: 01.08.2017  
 
@@ -62,21 +66,41 @@ Comment: Andy Wheir managed to mix science, fiction and thriller into a mind bog
 Rating: 8/10  
 Finished: 01.07.2017  
 
-![](https://images.gr-assets.com/books/1386852511l/21611.jpg)  
-Title: The Forever War (2 Books)  
-Author: Joe Haldemann  
-ISBN: 0060510862  
-Comment: Had the best idea how time works when traveling in space.  
-Rating: 9/10  
-Finished: 01.06.2017  
-
 ![](https://images.gr-assets.com/books/1405546838l/77566.jpg)  
-Title: Hyperion (Cantos)  
+Title: Hyperion  
+Series: Cantos  
 Author: Dan Simmons  
 ISBN: 0553283685  
 Comment:  
 Rating: 9/10  
 Finished: 01.05.2017  
+
+![](https://images.gr-assets.com/books/1412064931l/23168817.jpg)  
+Title: The Dark Forest  
+Series: Remembrance of Earth's Past #2  
+Author: Liu Cixin  
+ISBN: 0765386690  
+Comment:  
+Rating: 10/10  
+Finished: 01.02.2017  
+
+![](https://images.gr-assets.com/books/1415428227l/20518872.jpg)  
+Title: The Three-Body Problem  
+Series: Remembrance of Earth's Past #1  
+Author: Liu Cixin  
+ISBN: 0765377063  
+Comment: My absolute favorite hard SF book. Embodies the greatest SF ideas in spectacular story.  
+Rating: 10/10  
+Finished: 01.01.2017  
+
+![](https://images.gr-assets.com/books/1386852511l/21611.jpg)  
+Title: The Forever War  
+Series: Trilogy  
+Author: Joe Haldemann  
+ISBN: 0060510862  
+Comment: Had the best idea how time works when traveling in space.  
+Rating: 9/10  
+Finished: 01.10.2016  
 
 ![](https://images.gr-assets.com/books/1500930947l/9969571.jpg)  
 Title: Ready Player One  
@@ -84,10 +108,11 @@ Author: Ernest Cline
 ISBN: 0385737947  
 Comment: The perfect read if you are nerdy and like dystopian settings.  
 Rating: 8/10  
-Finished: 01.01.2017  
+Finished: 01.08.2016  
 
 ![](https://images.gr-assets.com/books/1375596592l/6186357.jpg)  
-Title: The Maze Runner (Trilogy)  
+Title: The Maze Runner  
+Series: Trilogy  
 Author: James Dashner  
 ISBN: 0385737947  
 Comment: Story got confusing in the follow-up books.  
@@ -119,7 +144,8 @@ Rating: 7/10
 Finished: 01.06.2016  
 
 ![](https://images.gr-assets.com/books/1447303603l/2767052.jpg)  
-Title: The Hunger Games (Trilogy)  
+Title: The Hunger Games  
+Series: Trilogy  
 Author: Suzanne Collins  
 ISBN: 0439023483  
 Comment: Loved it.  
@@ -127,7 +153,8 @@ Rating: 8/10
 Finished: 01.06.2015  
 
 ![](https://images.gr-assets.com/books/1342493368l/3636.jpg)  
-Title: The Giver (Trilogy)  
+Title: The Giver  
+Series: Trilogy  
 Author: Lois Lowry  
 ISBN: 0385732554  
 Comment: Intimidating and well structured story.  
@@ -143,7 +170,8 @@ Rating: 8/10
 Finished: 01.09.2014  
 
 ![](https://images.gr-assets.com/books/1366212852l/113436.jpg)  
-Title: Eragon (Trilogy)  
+Title: Eragon  
+Series: Trilogy  
 Author: Christopher Paolini  
 ISBN: 0375826696  
 Comment: The first book was good.  
@@ -151,7 +179,8 @@ Rating: 7/10
 Finished: 01.06.2014  
 
 ![](https://images.gr-assets.com/books/1375776480l/43615.jpg)  
-Title: The Gunslinger (The Dark Tower Saga)  
+Title: The Gunslinger  
+Series: The Dark Tower Saga  
 Author: Stephen King   
 ISBN: 0452284694  
 Comment: An unbelieveable journey that took me to undescribeable places.  
@@ -161,10 +190,42 @@ Finished: 01.03.2014
 ![](https://images.gr-assets.com/books/1303390735l/960.jpg)  
 Title: Iluminati  
 Author: Dan Brown  
-ISBN:  1416524797  
+ISBN: 1416524797  
 Comment: The first and last book of Dan.  
 Rating: 6/10  
 Finished: 01.01.2014  
+
+![](https://images.gr-assets.com/books/1385834121l/19068511.jpg)  
+Title: Fast ein bisschen Frühling  
+Auhtor: Alex Capus  
+Comment:  
+Rating: 6/10  
+ISBN: 3423131675  
+Finished: 01.01.2013  
+
+![](https://images.gr-assets.com/books/1524129086l/39871030.jpg)  
+Title: Unterm Rad  
+Auhtor: Hermann Hesse  
+Comment:  
+Rating: 7/10  
+ISBN: 1987755154  
+Finished: 01.01.2012  
+
+![](https://images.gr-assets.com/books/1381527686l/5982910.jpg)  
+Title: Happy Birthday, Türke!  
+Auhtor: Jakob Arjouni  
+Comment:  
+Rating: 8/10  
+ISBN: 3257215444  
+Finished: 01.01.2011  
+
+![](https://images.gr-assets.com/books/1458824702l/1016722.jpg)  
+Title: Schachnovelle  
+Auhtor: Stefan Zweig  
+Comment:  
+Rating: 9/10  
+ISBN: 3596215226  
+Finished: 01.04.2010  
 
 ![](https://images.gr-assets.com/books/1356913748l/6495605.jpg)  
 Title: Lord of the Flies  
@@ -172,9 +233,9 @@ Author: William Golding
 ISBN: 0140283331  
 Comment:  
 Rating: 7/10  
-Finished: 01.01.2007  
+Finished: 01.01.2008  
 
-![](https://images.gr-assets.com/books/1424037542l/7613.jpg)  
+![](https://images.gr-assets.com/books/1473778349l/774310.jpg)  
 Title: Animal Farm  
 Author: George Orwell  
 ISBN: 0452284244  
@@ -183,17 +244,19 @@ Rating: 7/10
 Finished: 01.01.2007  
 
 ![](https://images.gr-assets.com/books/1505766203l/119322.jpg)  
-Title: His Dark Materials (Trilogy)  
+Title: His Dark Materials  
+Series: Trilogy  
 Author: Philip Pullman  
 ISBN: 0440238609  
 Comment: The book series that formed my understanding of fantasy.  
 Rating: 6/10  
-Finished: 01.01.2006  
+Finished: 01.01.2007  
 
 ![](https://images-na.ssl-images-amazon.com/images/I/51mfuc3vGRL._SX327_BO1,204,203,200_.jpg)  
 Title: Die Wellenläufer  
+Series: Trilogie  
 Author: Kai Meyer  
 ISBN: 3770431758  
 Comment: One of the first novels I've read.
-Rating: 6/10
+Rating: 6/10  
 Finished: 01.01.2006  
