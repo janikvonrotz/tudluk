@@ -1,6 +1,19 @@
 import * as fs from 'fs'
 import fetch from 'node-fetch'
 import path from 'path'
+let webshot = require('webshot')
+
+// set configuration
+let config = {
+    limit: 60,
+    webshot: {
+        siteType: 'file',
+        windowSize: {
+            width: 4000,
+            height: 2000
+        }
+    }
+}
 
 // declare variables and interfaces
 let filepath:string = "bookshelf.md"
@@ -57,14 +70,19 @@ fs.readFile(filepath, 'utf8', (error, data) => {
         
     }
 
+    // apply config to book list
+    books = books.slice(0, config.limit)
+
     // create html book list content
     let HTMLBookList: String = ""
     for (let book of books) {
         HTMLBookList += `
 <div class="box">
     <img src="${book.filepath}" />
-    <p>${book.title}</p>
-    <p>${book.author}</p>
+    <div class="meta">
+        <p class="title">${book.title}</p>
+        <p class="author">${book.author}</p>
+    </div>
 </div>
 `
     }
@@ -75,20 +93,22 @@ fs.readFile(filepath, 'utf8', (error, data) => {
 <html lang="en">
 <head>
     <meta charset="utf-8">
+    <link rel="stylesheet" href="./node_modules/normalize.css/normalize.css">
     <link rel="stylesheet" href="./styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,500,700" rel="stylesheet"> 
 </head>
-<body>
-    <h1>Hello ${"World"}</h1>
-    
+<body>    
     <div class="wrapper">
         ${HTMLBookList}
     </div>
-
 </body>
 </html>
 `
     // write html content
     fs.writeFile("index.html", HTMLContent, (error) => console.error )
+
+    // take a screenshot of the html document
+    webshot("index.html", "poster.png", config.webshot, (error: any) => console.error)
 })
 
 

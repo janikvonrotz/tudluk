@@ -1,22 +1,40 @@
 body {
-margin: 40px;
+    margin: 40px;
+    font-family: 'Roboto Mono', monospace;
 }
 
 .wrapper {
     display: grid;
-    grid-template-columns: 320px 320px 320px 320px;
+    grid-template-columns: repeat(15, 320px);
     grid-gap: 10px;
-    background-color: #fff;
-    color: #444;
 }
 
 .box {
-    background-color: #444;
-    color: #fff;
+    display: grid;
+    grid-template-rows: 450px 100px;
     padding: 20px;
-    font-size: 150%;
+}
+
+.box img {
+    align-self: end;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.box p {
+    align-self: top;
+    margin-top: 20px;
 }
 
 img {
     max-width: 280px;
+}
+
+p.title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+p.author {
+    font-size: 18px;
+    font-weight: normal;
 }
