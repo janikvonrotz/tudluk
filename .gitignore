@@ -1,5 +1,4 @@
 node_modules
-index.js
-assets/*
+*.js
+assets
 index.html
-server.js

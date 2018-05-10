@@ -13,6 +13,11 @@ interface Book {
 }
 let books: Book[] = []
 
+// make sure the assets folder exists
+if (!fs.existsSync(config.assetsFolder)){
+    fs.mkdirSync(config.assetsFolder)
+}
+
 // read the data file
 fs.readFile(config.dataFile, 'utf8', (error, data) => {
 
@@ -42,19 +47,25 @@ fs.readFile(config.dataFile, 'utf8', (error, data) => {
         }
     }
 
-    // download the image files
-    for (let book of [...books]) {
-        book.filepath = `./assets/${book.isbn}${path.extname(book.url)}`
-        if (!fs.existsSync(book.filepath)) {
-            
-            fetch(book.url).then(response => {
-                    
-                let destination = fs.createWriteStream(book.filepath)
-                response.body.pipe(destination)
+    if(config.downloadImages){
+        // download the image files
+        for (let book of [...books]) {
+            book.filepath = `./assets/${book.isbn}${path.extname(book.url)}`
+            if (!fs.existsSync(book.filepath)) {
                 
-            }).catch(error => console.error)
+                fetch(book.url).then(response => {
+                        
+                    let destination = fs.createWriteStream(book.filepath)
+                    response.body.pipe(destination)
+                    
+                }).catch(error => console.error)
+            }
         }
-        
+        // replace image filepath by url
+    } else {
+        for (let book of [...books]) {
+            book.filepath = book.url
+        }
     }
 
     // apply config to book list
