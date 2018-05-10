@@ -1,0 +1,6 @@
+{
+    "limit": 60,
+    "dataFile": "bookshelf.md",
+    "htmlFile": "index.html",
+    "port": 8000
+}

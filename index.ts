@@ -1,22 +1,9 @@
 import * as fs from 'fs'
 import fetch from 'node-fetch'
 import path from 'path'
-let webshot = require('webshot')
+import config from './config.json'
 
-// set configuration
-let config = {
-    limit: 60,
-    webshot: {
-        siteType: 'file',
-        windowSize: {
-            width: 4000,
-            height: 2000
-        }
-    }
-}
-
-// declare variables and interfaces
-let filepath:string = "bookshelf.md"
+// declare arrays and interfaces
 interface Book {
     url: string
     title: string
@@ -27,7 +14,7 @@ interface Book {
 let books: Book[] = []
 
 // read the data file
-fs.readFile(filepath, 'utf8', (error, data) => {
+fs.readFile(config.dataFile, 'utf8', (error, data) => {
 
     // split document lines into array
     let lines:string[] = data.split('\n')
@@ -36,7 +23,7 @@ fs.readFile(filepath, 'utf8', (error, data) => {
     let book = <Book>{}
     for (let line of lines) {
 
-        // for each image tag create a new book entrz
+        // for each image tag create a new book entry
         if (line.startsWith('![]')) {
             book.url = line.replace('![](', '').replace(')  ','').replace('\r', '')
         }
@@ -105,10 +92,7 @@ fs.readFile(filepath, 'utf8', (error, data) => {
 </html>
 `
     // write html content
-    fs.writeFile("index.html", HTMLContent, (error) => console.error )
-
-    // take a screenshot of the html document
-    webshot("index.html", "poster.png", config.webshot, (error: any) => console.error)
+    fs.writeFile(config.htmlFile, HTMLContent, (error) => console.error )
 })
 
 
