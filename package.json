@@ -5,7 +5,8 @@
   "main": "index.ts",
   "scripts": {
     "build": "tsc && node index.js",
-    "server": "tsc && node server.js"
+    "server": "tsc && node server.js",
+    "screenshot": "docker container run -it --rm -v $(pwd):/usr/src/app zenika/alpine-chrome --no-sandbox --screenshot --hide-scrollbars https://www.chromestatus.com/"
   },
   "author": "",
   "license": "ISC",
