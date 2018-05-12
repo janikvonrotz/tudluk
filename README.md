@@ -1,14 +1,14 @@
 # tudluk
 
-A digital bookshelf generator.
+*A digital bookshelf generator for the 21th century.*
 
 Tudluk creates a static html page that showcases your favorite books. You can then use headless chrome to take a screenshot of the page and create a beautiful poster.
 
 ## Example
 
-Here is a scaled version of the example bookshelf poster.
+Below is a scaled screenshot of the example bookshelf page.
 
-![]()
+![](https://raw.githubusercontent.com/janikvonrotz/tudluk/master/screenshot.png)
 
 ## Installation
 
@@ -22,14 +22,14 @@ Build the html poster page and run a static web server with `yarn start`.
 
 Open `http://localhost` in your bowser and be amazed.
 
-To create a screenshot use headless chrome.
+Use headless chrome to take a screenshot.
 
-* On Windows run this command in PowerShell:
+* On Windows run this PowerShell command:
 
 `& "C:\Program Files (x86)\Google\Chrome\Application\chrome" --headless --disable-gpu --screenshot=C:\Users\_USERNAME_\screenshot.png  --hide-scrollbars --window-size=5020,2460 http://localhost`
 
-* On Mac OS run this command in Bash:
+* On Mac OS run this Bash command:
 
 `/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --headless --disable-gpu --screenshot=/Users/_USERNAME_/screenshot.png  --hide-scrollbars --window-size=5020,2460 http://localhost`
 
-You may have to figure out the best window size settings for a fitting screenshot.
+You may have to adjust the best `--window-size` settings for a perfect screenshot.
