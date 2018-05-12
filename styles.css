@@ -1,11 +1,13 @@
 body {
     margin: 40px;
     font-family: 'Roboto Mono', monospace;
+    display: grid;
 }
 
 .wrapper {
     display: grid;
     grid-gap: 10px;
+    vertical-align: middle;
 }
 
 .box {
@@ -15,17 +17,9 @@ body {
 }
 
 .box img {
+    max-width: 280px;
     align-self: end;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-
-.box p {
-    align-self: top;
-    margin-top: 20px;
-}
-
-img {
-    max-width: 280px;
 }
 
 p.title {
