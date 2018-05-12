@@ -5,7 +5,6 @@ body {
 
 .wrapper {
     display: grid;
-    grid-template-columns: repeat(15, 320px);
     grid-gap: 10px;
 }
 

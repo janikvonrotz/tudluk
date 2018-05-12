@@ -390,7 +390,7 @@ Finished: 01.06.2013
 
 ![](https://images.gr-assets.com/books/1385834121l/19068511.jpg)  
 Title: Fast ein bisschen Frühling  
-Auhtor: Alex Capus  
+Author: Alex Capus  
 Comment:  
 Rating: 6/10  
 ISBN: 3423131675  
@@ -398,7 +398,7 @@ Finished: 01.01.2013
 
 ![](https://images.gr-assets.com/books/1524129086l/39871030.jpg)  
 Title: Unterm Rad  
-Auhtor: Hermann Hesse  
+Author: Hermann Hesse  
 Comment:  
 Rating: 7/10  
 ISBN: 1987755154  
@@ -415,7 +415,7 @@ Finished: 01.06.2011
 
 ![](https://images.gr-assets.com/books/1381527686l/5982910.jpg)  
 Title: Happy Birthday, Türke!  
-Auhtor: Jakob Arjouni  
+Author: Jakob Arjouni  
 Comment:  
 Rating: 8/10  
 ISBN: 3257215444  
@@ -423,7 +423,7 @@ Finished: 01.01.2011
 
 ![](https://images.gr-assets.com/books/1458824702l/1016722.jpg)  
 Title: Schachnovelle  
-Auhtor: Stefan Zweig  
+Author: Stefan Zweig  
 Comment:  
 Rating: 9/10  
 ISBN: 3596215226  

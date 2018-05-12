@@ -93,7 +93,12 @@ fs.readFile(config.dataFile, 'utf8', (error, data) => {
     <meta charset="utf-8">
     <link rel="stylesheet" href="./node_modules/normalize.css/normalize.css">
     <link rel="stylesheet" href="./styles.css">
-    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,500,700" rel="stylesheet"> 
+    <style>
+    .wrapper {
+        grid-template-columns: repeat(${config.rows}, 320px);
+    } 
+    </style>
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,500,700" rel="stylesheet">
 </head>
 <body>    
     <div class="wrapper">

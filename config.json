@@ -1,6 +1,7 @@
 {
     "downloadImages": true,
     "limit": 60,
+    "rows": 15,
     "dataFile": "bookshelf.md",
     "htmlFile": "index.html",
     "assetsFolder": "assets",
