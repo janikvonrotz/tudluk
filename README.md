@@ -32,4 +32,4 @@ Use headless chrome to take a screenshot.
 
 `/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --headless --disable-gpu --screenshot=/Users/_USERNAME_/screenshot.png  --hide-scrollbars --window-size=5000,2500 http://localhost`
 
-You may have to adjust the best `--window-size` settings for a perfect screenshot.
+You may have to adjust the `--window-size` parameter and the `config.json` settings for a perfect screenshot ratio.

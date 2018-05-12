@@ -1,10 +1,12 @@
 {
     "canvas": {
-        "width": 5000,
-        "height": 2500
+        "width": "4880px",
+        "height": "2500px"
     },
     "downloadImages": true,
     "limit": 60,
+    "bookWidth": "320px",
+    "marginLeftRight": "30px",
     "rows": 15,
     "dataFile": "bookshelf.md",
     "htmlFile": "index.html",

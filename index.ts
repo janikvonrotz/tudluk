@@ -95,11 +95,13 @@ fs.readFile(config.dataFile, 'utf8', (error, data) => {
     <link rel="stylesheet" href="./styles.css">
     <style>
     body {
-        width: ${config.canvas.width}px;
-        height: ${config.canvas.height}px;
+        width: ${config.canvas.width};
+        height: ${config.canvas.height};
     }
     .wrapper {
-        grid-template-columns: repeat(${config.rows}, 320px);
+        grid-template-columns: repeat(${config.rows}, ${config.bookWidth});
+        margin-left: ${config.marginLeftRight};
+        margin-right: ${config.marginLeftRight};
     }
     </style>
     <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,500,700" rel="stylesheet">

@@ -1,5 +1,4 @@
 body {
-    margin: 40px;
     font-family: 'Roboto Mono', monospace;
     display: grid;
 }
@@ -13,7 +12,7 @@ body {
 .box {
     display: grid;
     grid-template-rows: 450px 100px;
-    padding: 20px;
+    margin: 20px;
 }
 
 .box img {
