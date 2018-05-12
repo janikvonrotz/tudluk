@@ -1,4 +1,8 @@
 {
+    "canvas": {
+        "width": 5000,
+        "height": 2500
+    },
     "downloadImages": true,
     "limit": 60,
     "rows": 15,

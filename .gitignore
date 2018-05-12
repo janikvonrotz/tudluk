@@ -2,3 +2,4 @@ node_modules
 *.js
 assets
 index.html
+.DS_Store

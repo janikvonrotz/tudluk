@@ -94,16 +94,22 @@ fs.readFile(config.dataFile, 'utf8', (error, data) => {
     <link rel="stylesheet" href="./node_modules/normalize.css/normalize.css">
     <link rel="stylesheet" href="./styles.css">
     <style>
+    body {
+        width: ${config.canvas.width}px;
+        height: ${config.canvas.height}px;
+    }
     .wrapper {
         grid-template-columns: repeat(${config.rows}, 320px);
-    } 
+    }
     </style>
     <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,500,700" rel="stylesheet">
 </head>
 <body>    
+    <div class="whitespace"></div>
     <div class="wrapper">
         ${HTMLBookList}
     </div>
+    <div class="whitespace"></div>
 </body>
 </html>
 `

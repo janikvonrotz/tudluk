@@ -222,7 +222,7 @@ Comment: Story got confusing in the follow-up books.
 Rating: 6/10  
 Finished: 01.03.2016  
 
-![](https://images.gr-assets.com/books/1309212400l/9014.jpg)  
+![](https://images.gr-assets.com/books/1449723878l/28165439.jpg)  
 Title: The Long Walk  
 Author: Richard Bachmann (Stephen King)  
 ISBN: 0451196716  

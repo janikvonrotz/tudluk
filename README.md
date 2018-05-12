@@ -26,10 +26,10 @@ Use headless chrome to take a screenshot.
 
 * On Windows run this PowerShell command:
 
-`& "C:\Program Files (x86)\Google\Chrome\Application\chrome" --headless --disable-gpu --screenshot=C:\Users\_USERNAME_\screenshot.png  --hide-scrollbars --window-size=5020,2460 http://localhost`
+`& "C:\Program Files (x86)\Google\Chrome\Application\chrome" --headless --disable-gpu --screenshot=C:\Users\_USERNAME_\screenshot.png  --hide-scrollbars --window-size=5000,2500 http://localhost`
 
 * On Mac OS run this Bash command:
 
-`/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --headless --disable-gpu --screenshot=/Users/_USERNAME_/screenshot.png  --hide-scrollbars --window-size=5020,2460 http://localhost`
+`/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --headless --disable-gpu --screenshot=/Users/_USERNAME_/screenshot.png  --hide-scrollbars --window-size=5000,2500 http://localhost`
 
 You may have to adjust the best `--window-size` settings for a perfect screenshot.
