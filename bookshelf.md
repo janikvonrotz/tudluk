@@ -482,7 +482,7 @@ Rating: 6/10
 Finished: 01.02.2007  
 
 ![](https://images.gr-assets.com/books/1505766360l/119324.jpg)  
-Title: Das magische Messer  
+Title: Das Magische Messer  
 Series: His Dark Materials #2  
 Author: Philip Pullman  
 ISBN: 0679879250  
