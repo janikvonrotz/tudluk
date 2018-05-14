@@ -3,22 +3,26 @@ body {
     display: grid;
 }
 
-.wrapper {
+div.wrapper {
     display: grid;
     grid-gap: 10px;
     vertical-align: middle;
 }
 
-.box {
+div.box {
     display: grid;
     grid-template-rows: 450px 100px;
     margin: 20px;
 }
 
-.box img {
+div.box img {
     max-width: 280px;
     align-self: end;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+div.meta {
+    margin-top: 10px;
 }
 
 p.title {

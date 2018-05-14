@@ -1,3 +1,11 @@
+![](https://images-eu.ssl-images-amazon.com/images/I/51r3EZ0HccL.jpg)  
+Title: Die Attentäterin  
+Author:  Yasmina Khadra  
+Comment:  
+Rating: 6/10  
+ISBN: 3423136456  
+Finished: 15.05.2018  
+
 ![](https://images.gr-assets.com/books/1408303130l/375802.jpg)  
 Title: Ender's Game  
 Series: Ender's Saga #1  
@@ -11,7 +19,7 @@ Finished: 01.05.2018
 Title: Sapiens: A Brief History of Humankind 
 Author: Yuval Noah Harari  
 ISBN: 0771038518  
-Comment: Thought provoking, picturesque, outstanding and simply amazing. If you have not a clue about humanities history and how we built our society, this the book start with.  
+Comment: Thought provoking, picturesque, outstanding and simply amazing. If you have not a clue about humanities history and how we built our society, this the book to start with.  
 Rating: 10/10  
 Finished: 11.04.2018  
 
@@ -30,7 +38,7 @@ Series: Southern Reach #1
 Author: Jeff VanderMeer  
 ISBN: 0374104093  
 Comment: Challenging to read, puzzling to the end. Captivating and psychedelic.  
-Rating: 7/10
+Rating: 7/10  
 Finished: 15.01.2018  
 
 ![](https://images.gr-assets.com/books/1505058384l/36216607.jpg)  
@@ -83,7 +91,7 @@ Rating: 10/10
 Finished: 01.08.2017  
 
 ![](https://images.gr-assets.com/books/1464780231l/30329555.jpg)  
-Title: Invisible Planets: Contemporary Chinese Science Fiction in Translation  
+Title: Invisible Planets: Contemporary Chinese Science Fiction  
 Author: Ken Liu  
 ISBN: 0765384191  
 Comment:  
@@ -522,6 +530,6 @@ Title: Die Wellenläufer
 Series: Wellenläufer-Trilogie #1  
 Author: Kai Meyer  
 ISBN: 3785548486  
-Comment: One of the first novels I've read.
+Comment: One of the first novels I've read.  
 Rating: 6/10  
 Finished: 01.01.2006  
