@@ -232,7 +232,7 @@ Finished: 01.03.2016
 
 ![](https://images.gr-assets.com/books/1449723878l/28165439.jpg)  
 Title: The Long Walk  
-Author: Richard Bachmann (Stephen King)  
+Author: Stephen King as Richard Bachmann  
 ISBN: 0451196716  
 Comment: Whenever I go for a run in the woods I have to think about the this book. The surreal story will haunt me forever.  
 Rating: 9/10  
