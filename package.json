@@ -11,12 +11,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "typescript": "^2.8.3"
+    "typescript": "^3.4.4"
   },
   "dependencies": {
     "@types/express": "^4.11.1",
-    "@types/node": "^7.0.62",
-    "@types/node-fetch": "^1.6.9",
+    "@types/node": "^11.13.7",
+    "@types/node-fetch": "^2.3.2",
     "express": "^4.16.3",
     "node-fetch": "^2.1.2",
     "normalize.css": "^8.0.0"
