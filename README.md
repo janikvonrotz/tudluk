@@ -10,15 +10,19 @@ Below is a scaled screenshot of the example bookshelf page.
 
 ![](https://raw.githubusercontent.com/janikvonrotz/tudluk/master/screenshot.png)
 
-## Installation
+## Usage
 
 Use [yarn](https://yarnpkg.com/lang/en/) or [node](https://nodejs.org/en/) to install the project dependencies.
+
+```
+npm install
+```
 
 Open the `bookshelf.md` and add your books metadata.
 
 Make sure that the configurations in `config.json` are correct.
 
-Build the html poster page and run a static web server with `yarn start`.
+Build the html poster page and run a static web server with `npm run start`.
 
 Open `http://localhost` in your bowser and be amazed.
 

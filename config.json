@@ -4,7 +4,7 @@
         "height": "2500px"
     },
     "downloadImages": true,
-    "limit": 60,
+    "limit": 20,
     "bookWidth": "320px",
     "marginLeftRight": "30px",
     "rows": 15,
